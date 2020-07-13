@@ -2,4 +2,7 @@
 
 Hey! :wave:
 
-[![My profile viists](https://randos.online/u/anshumanv)](https://randos.online/u/anshumanv/next)
+[![Random Visits](https://randos.online/u/anshumanv)](https://randos.online/u/anshumanv/next)
+
+[![HitCount](http://hits.dwyl.com/anshumanv/anshumanv.svg)](http://hits.dwyl.com/anshumanv/anshumanv)
+
