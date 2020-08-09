@@ -25,7 +25,8 @@ Hey! :wave:
 -  ⚽ I like to watch Anime and play Football.
 -------
 
-[![Random Visits](https://randos.online/u/anshumanv)](https://randos.online/u/anshumanv/next)
+[![Anshuman's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=anshumanv&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anshumanv)
 
+[![Random Visits](https://randos.online/u/anshumanv)](https://randos.online/u/anshumanv/next)
 [![HitCount](http://hits.dwyl.com/anshumanv/anshumanv.svg)](http://hits.dwyl.com/anshumanv/anshumanv)
 
