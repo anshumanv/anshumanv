@@ -18,11 +18,11 @@ Hey! :wave:
 </p>
     
 -------
--  ⚡ Anshuman here, working as a Software Engineer at Clarisights. 
+-  ⚡ Anshuman here, working as a Software Engineer at SmartNews. 
 -  🍀 I'm presently learning Ruby and Rails.
--  💭 Feel free to ask me about JavaScript, React, Anime or Japan.
+-  💭 Feel free to ask me about Tech and life in Japan.
 -  🍎 Know more about me at [anshumanv.dev](https://anshumanv.dev).
--  ⚽ I like to watch Anime and play Football.
+-  🔮 Recently I've been into 🏂 🏋️‍♂️ 🧗‍♂️
 -------
 
 [![Anshuman's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=anshumanv&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anshumanv)
